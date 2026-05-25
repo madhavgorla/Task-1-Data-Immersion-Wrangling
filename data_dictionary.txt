@@ -1,0 +1,21 @@
+ORDERNUMBER - Unique order number
+QUANTITYORDERED - Number of products ordered
+PRICEEACH - Price of each product
+ORDERLINENUMBER - Order line number
+SALES - Total sales amount
+ORDERDATE - Date of order
+STATUS - Order status
+PRODUCTLINE - Product category
+MSRP - Product price
+PRODUCTCODE - Product code
+CUSTOMERNAME - Customer name
+PHONE - Customer phone number
+CITY - Customer city
+STATE - Customer state
+COUNTRY - Customer country
+POSTALCODE - Customer postal code
+TERRITORY - Sales territory
+CONTACTLASTNAME - Customer last name
+CONTACTFIRSTNAME - Customer first name
+DEALSIZE - Deal size category
+TOTAL_VALUE - Total calculated sales value
